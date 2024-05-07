@@ -22,19 +22,19 @@
     "url": "https://metabase.farolcode.com",
     "icon": "https://icons.duckduckgo.com/ip3/metabase.farolcode.com.ico",
     "slug": "metabase",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 954,
-    "timeDay": 831,
-    "timeWeek": 954,
-    "timeMonth": 954,
-    "timeYear": 954,
+    "status": "up",
+    "uptime": "97.42%",
+    "uptimeDay": "97.17%",
+    "uptimeWeek": "97.42%",
+    "uptimeMonth": "97.42%",
+    "uptimeYear": "97.42%",
+    "time": 1052,
+    "timeDay": 1040,
+    "timeWeek": 1052,
+    "timeMonth": 1052,
+    "timeYear": 1052,
     "dailyMinutesDown": {
-      "2024-05-07": 0
+      "2024-05-07": 41
     }
   }
 ]
